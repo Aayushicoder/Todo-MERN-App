@@ -1,1 +1,1 @@
-export const DB_NAME = "Todo MERN App"
+export const DB_NAME = "TodoMERNApp"
